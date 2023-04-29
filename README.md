@@ -1,5 +1,5 @@
 Tipo de aplicativo: Streaming
-Dupla: Lucas Wey e Felipe Maciel
+Dupla: Lucas Chaves Wey e Felipe Maciel
 exemplos usados: Netflix, HBO Max e Wovie+
 Em todos os exemplos são necessários uma aba de registro de conta e login, utilizando a internet para o uso, caso não for o primeiro acesso e já estiver efetuado o login a primeira aba amostra será a de seleção de perfis, onde escolhendo você é redirecionado para a aba de conteúdo, para o funcionamento de todas as funções incluindo a exibição dos conteúdos é necessária a conexão de internet, já ao entrar na aba de seleção de filmes e séries são separados por conteúdo, há barra de pesquisa, tem uma barra de tarefas, onde é possível mudar para abas para filtrar os conteúdos, fazer download dos mesmos, e pesquisa, há a aba de configurações do perfil e gerais, ao escolher uma opção de conteúdo o usuário vai para um resumo do filme/série, com sinopse, episódios caso houver, informação gerais do conteúdo, e por fim ao pressionar o botão play, o conteúdo selecionado se inicia com suas configurações de qualidade e demais. 
 ![netflixapp1](https://user-images.githubusercontent.com/101645516/235132426-f5c290a9-0b58-4053-907a-d7f356277c11.jpg)
